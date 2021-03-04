@@ -12,7 +12,7 @@
 ** Functions
 ** ---------
 **
-** I n i t i a l i z a t i o n
+** Initialization
 **
 **	User_Init_First ()
 **	User_PrintUsage ()
