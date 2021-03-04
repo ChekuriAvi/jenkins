@@ -12,7 +12,7 @@
 ** F u n c t i o n s
 ** ---------
 **
-** I n i t i a l i z a tion
+** I n i t i a l i z a t ion
 **
 **	User_Init_First ()
 **	User_PrintUsage ()
