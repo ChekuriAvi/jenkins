@@ -14,7 +14,7 @@
 **
 ** Initialization
 **
-**	U ser_Init_First ()
+**	User_Init_First ()
 **	User_PrintUsage ()
 **	User_ScanCmdLine ()
 **
