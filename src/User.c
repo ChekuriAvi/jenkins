@@ -9,7 +9,7 @@
 **                  Germany                      WWW    www.ipg-automotive.com
 ******************************************************************************
 **
-** F u n c t i o n s
+** Fu n c t i o n s
 ** ---------
 **
 ** I n i t i a l i z a t i o n
