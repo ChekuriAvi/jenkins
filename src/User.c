@@ -15,7 +15,7 @@
 ** Initialization
 ** code change
 **	User_Init_First ()
-**	User_PrintUsage ()
+**	User_PrintUsag e ()
 **	User_ScanCmdLine ()
 **
 **	User_AppLogFilter ()
